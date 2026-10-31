@@ -21,7 +21,7 @@ The course develops agent loops, structured tool calls, MCP interoperability, wo
 | 7 | [RAG and research agents](lectures/07-rag-and-research-agents.pdf) |
 | 9 | [Memory and persistence](lectures/09-memory-and-persistence.pdf) |
 
-Session numbers follow the course schedule. PDFs are added as the corresponding materials become available. References and figure credits appear in the slides.
+Session numbers follow the course schedule. PDFs are added as the corresponding materials become available. References and figure credits appear in the slides. Hidden teaching slides are omitted from the PDF exports, so printed slide numbers may have gaps.
 
 ## Assignments and project
 
