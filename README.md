@@ -2,6 +2,8 @@
 
 Course materials for Fall 2026 at the University of Southern California. Instructor: Arash Saifhashemi.
 
+- [USC course listing: EE 599](https://classes.usc.edu/term/20263/catalogue/course/EE599)
+
 The course develops agent loops, structured tool calls, MCP interoperability, workflow orchestration, evaluation, retrieval, and memory through Python examples. Familiarity with Python, HTTP APIs, and Git is recommended.
 
 ## Course PDFs
@@ -19,6 +21,7 @@ The course develops agent loops, structured tool calls, MCP interoperability, wo
 | 5 | [LangGraph fundamentals](lectures/05-langgraph-fundamentals.pdf) |
 | 6 | [Evaluating agentic workflows](lectures/06-evaluating-agentic-workflows.pdf) |
 | 7 | [RAG and research agents](lectures/07-rag-and-research-agents.pdf) |
+| 8 | [Research agents](lectures/08-research-agents.pdf) |
 | 9 | [Memory and persistence](lectures/09-memory-and-persistence.pdf) |
 
 Session numbers follow the course schedule. PDFs are added as the corresponding materials become available. References and figure credits appear in the slides. Hidden teaching slides are omitted from the PDF exports, so printed slide numbers may have gaps.
